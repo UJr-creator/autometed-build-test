@@ -1,2 +1,2 @@
-FROM dockersamples/static-site
+FROM hujr/docker-whale
 ENV AUTHOR="Sato Taro"
