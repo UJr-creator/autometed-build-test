@@ -1,2 +1,2 @@
-FROM deckersamples/static-site
+FROM dockersamples/static-site
 ENV AUTHOR="Sato Taro"
